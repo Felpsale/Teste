@@ -15,7 +15,7 @@ Me chamo Felipe Alejandro Oliveira Sousa, tenho 19 anos e moro na zona Sul de SÃ
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:alejamdrem255@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/paulopontodev/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)]([https://www.linkedin.com/in/paulopontodev/](https://www.linkedin.com/in/felipe-alejandro-oliveira-sousa/))
 
 
 <h3 align="left">My Stack ~</h3>
